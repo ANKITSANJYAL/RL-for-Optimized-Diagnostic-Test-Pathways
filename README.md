@@ -1,5 +1,4 @@
 # RL-for-Optimized-Diagnostic-Test-Pathways
-## 🧠 Project 2: RL for Optimized Diagnostic Test Pathways
 
 ### 📌 Problem Statement
 In clinical practice, doctors must select the right sequence of diagnostic tests to reach a confident diagnosis quickly and cost-effectively. However, these decisions are often made heuristically. This project leverages reinforcement learning to learn an optimal policy for test selection, minimizing unnecessary testing while maximizing diagnostic accuracy.
